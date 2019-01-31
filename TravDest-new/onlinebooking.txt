@@ -1,0 +1,71 @@
+<div class="ordering-section" id="Order">
+			<div class="container">
+				<div class="ordering-section-head text-center wow bounceInRight" data-wow-delay="0.4s">
+					<h3>Online bookings were never so easy</h3>
+					<div class="dotted-line">
+						<h4> Choose yours below </h4>
+					</div>
+				</div>
+
+<script type="text/javascript">
+if (typeof jQuery == 'undefined'){
+    document.write(unescape("%3Cscript src='http://www.emailmeform.com/builder/js/jquery-1.4.4.min.js' type='text/javascript'%3E%3C/script%3E"));
+}
+</script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js"></script>
+<script type="text/javascript">
+if (typeof $.ui == 'undefined'){
+    document.write(unescape("%3Cscript src='http://www.emailmeform.com/builder/js/jquery-ui-1.7.2.custom.min.js' type='text/javascript'%3E%3C/script%3E"));
+}
+</script>
+<link rel="stylesheet" type="text/css" href="http://www.emailmeform.com/builder/styles/dynamic.php?t=post" />
+<script type="text/javascript" src="http://www.emailmeform.com/builder/js/dynamic.php?t=post&t2=0&use_CDN=true"></script>
+<script>$(function(){$('#anchor_qGDa3e1cbcYx0vMo1A8arFEz').colorbox({width:'70%', height:'100%', iframe:true});})</script>
+
+<script>$(function(){$('#anchor_10w8gbcjifV476KdPbsCEJD').colorbox({width:'70%', height:'100%', iframe:true});})</script>
+
+
+<script>$(function(){$('#anchor_qL4defEt1D0j').colorbox({width:'70%', height:'100%', iframe:true});})</script>
+
+<script>$(function(){$('#anchor_7w3Z1i81t91K74D2').colorbox({width:'50%', height:'60%', iframe:true});})</script>
+
+
+				<div class="ordering-section-grids">
+					<div class="col-md-3 ordering-section-grid">
+						<div class="ordering-section-grid-process wow fadeInRight" data-wow-delay="0.4s"">
+							<a id='anchor_qGDa3e1cbcYx0vMo1A8arFEz' href='http://www.emailmeform.com/builder/form/qGDa3e1cbcYx0vMo1A8arFEz'><i class="one"></i><br>
+							<i class="one-icon"></i>
+							<p>Flights <br><span></span></p>
+							</a>
+
+						</div>
+					</div>
+					<div class="col-md-3 ordering-section-grid">
+						<div class="ordering-section-grid-process wow fadeInRight" data-wow-delay="0.4s"">
+							<a id='anchor_10w8gbcjifV476KdPbsCEJD' href='http://www.emailmeform.com/builder/form/10w8gbcjifV476KdPbsCEJD'><i class="two"></i><br>
+							<i class="two-icon"></i>
+							<p>Hotels  <br><span></span></p>
+							</a>
+						</div>
+					</div>
+					<div class="col-md-3 ordering-section-grid">
+						<div class="ordering-section-grid-process wow fadeInRight" data-wow-delay="0.4s"">
+							<a id='anchor_qL4defEt1D0j' href='http://www.emailmeform.com/builder/form/qL4defEt1D0j'><i class="three"></i><br>
+							<i class="three-icon"></i>
+							<p>Visas   <br><span></span></p>
+							</a>
+						</div>
+					</div>
+
+					<div class="col-md-3 ordering-section-grid">
+						<div class="ordering-section-grid-process wow fadeInRight" data-wow-delay="0.4s"">
+							<a id='anchor_7w3Z1i81t91K74D2' href='http://www.emailmeform.com/builder/form/7w3Z1i81t91K74D2'><i class="four"></i><br>
+							<i class="four-icon"></i>
+							<p>Packages <br><span></span></p>
+							</a>
+						</div>
+					</div>
+					<div class="clearfix"></div>
+				</div>
+			</div>
+		</div>

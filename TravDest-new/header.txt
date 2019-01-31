@@ -1,0 +1,13 @@
+<div class="top-menu">
+					<ul>
+						<li><a href="index.html">Home</a></li>|
+						<li><a href="about.html">About us</a></li>|
+						<li class="active"><a href="visa.html">Visa</a></li>|
+						<li><a href="hajjumrah.html">Hajj & Umrah</a></li>|
+						<li><a href="hotel.html">Hotels</a></li>|
+						<li><a href="packages.html">Packages</a></li>|
+						<li><a href="insurance.html">Travel Insurance</a></li>|
+						<li><a href="contact.html">Contact</a></li>
+						<div class="clearfix"></div>
+					</ul>
+				</div>
